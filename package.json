@@ -1,8 +1,7 @@
 {
   "name": "@edenjs/session-store",
   "description": "",
-  "version": "0.0.3",
-  "dependencies": {},
+  "version": "0.0.4",
   "engines": {
     "node": ">= 8.0.0"
   },
@@ -20,12 +19,7 @@
     "url": "https://github.com/eden-js/socket/issues"
   },
   "homepage": "https://github.com/eden-js/socket#readme",
-  "devDependencies": {
-    "@edenjs/eslint-config-eden": "^2.0.14",
-    "eslint": "^7.9.0",
-    "eslint-config-airbnb": "^18.2.0",
-    "eslint-plugin-import": "^2.16.0",
-    "eslint-plugin-jsx-a11y": "^6.2.1",
-    "eslint-plugin-react": "^7.12.4"
+  "dependencies": {
+    "@dashup/eslint-config-dashup": "^0.0.1"
   }
 }
